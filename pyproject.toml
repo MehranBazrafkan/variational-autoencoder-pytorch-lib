@@ -1,7 +1,7 @@
 [project]
 name = "variational-autoencoder-pytorch-lib"
-version = "0.1.0"
-description = "A package to simplify the implementing a variational-autoencoder model with fully connected latent heads."
+version = "0.1.1"
+description = "A package to simplify the implementing a variational-autoencoder model with spacial latent heads."
 readme = "README.md"
 requires-python = ">=3.10"
 license = "MIT"
